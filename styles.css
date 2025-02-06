@@ -1,0 +1,55 @@
+/* Apply a full-screen centered layout */
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #fce4ec; /* Soft pink background */
+  color: #c2185b; /* Romantic dark rose color */
+  font-family: 'Dancing Script', cursive; /* Elegant cursive font */
+  text-align: center;
+  margin: 0;
+}
+
+/* Content container to keep everything centered */
+.content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Styling for the main title */
+.animated-text {
+  font-size: 2.5em;
+  font-weight: bold;
+  animation: fadeIn 2s ease-in-out infinite alternate;
+  margin-bottom: 15px;
+}
+
+/* GIF styling */
+img {
+  max-width: 90%;
+  height: auto;
+  border-radius: 10px;
+}
+
+/* Styling for the love message */
+.love-message {
+  font-size: 2em;
+  margin-top: 15px;
+  animation: heartbeat 1.5s infinite;
+}
+
+/* Fade-in animation */
+@keyframes fadeIn {
+  from { opacity: 0.3; }
+  to { opacity: 1; }
+}
+
+/* Heartbeat effect */
+@keyframes heartbeat {
+  0% { transform: scale(1); }
+  50% { transform: scale(1.1); }
+  100% { transform: scale(1); }
+}
