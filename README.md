@@ -1,2 +1,2 @@
 Happy Rose Day to all the lovlies out there ❤️
-![Uploading rose-rosa.gif…]()
+![](https://github.com/amankumarmatta/Rose-Day/blob/main/rose.gif)
