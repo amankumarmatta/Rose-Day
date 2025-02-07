@@ -1,4 +1,4 @@
-Happy Rose Day to all the lovlies out there ❤️ [Happy Rose Day](bit.ly/r0s3-D4Y)
+Happy Rose Day to all the lovlies out there ❤️ [Happy Rose Day](http://bit.ly/r0s3-D4Y)
 
 
 
